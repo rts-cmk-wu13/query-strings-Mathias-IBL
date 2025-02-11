@@ -31,7 +31,7 @@ fetch(`/data/${id}.json`)
                     <li>${data.facilities[1]}</li>
                     <li>${data.facilities[2]}</li>
                     <li>${data.facilities[3]}</li>
-                    </ul>
+                </ul>
                 </div>
 
 

@@ -7,3 +7,8 @@
 body{
     font-family: Arial, sans-serif;
 }
+
+.favorite{
+    color: red;
+    border: none;
+}
